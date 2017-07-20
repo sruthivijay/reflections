@@ -11,3 +11,6 @@ branches helps to create a new branch where you can experient without affecting 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps us to keep a track of the last change we made.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be really harder to collaborate without git and github.
